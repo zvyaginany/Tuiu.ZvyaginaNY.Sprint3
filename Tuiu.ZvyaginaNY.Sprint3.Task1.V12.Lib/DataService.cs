@@ -16,7 +16,7 @@ namespace Tuiu.ZvyaginaNY.Sprint3.Task1.V12.Lib
                 sum += term;
                 k++;
             }
-            return  Math.Round(sum, 3);
+            return Math.Round(sum, 3);
         } 
     }
 }

@@ -7,7 +7,7 @@ namespace Tuiu.ZvyaginaNY.Sprint3.Task1.V12
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #3 | Выполнила: Звягина Н.Ю. | ИСПБ 225-1";
+            Console.Title = "Спринт #3 | Выполнила: Звягина Н.Ю. | ИСПБ 25-1";
 
             Console.WriteLine("***************");
             Console.WriteLine("* Спринт #3                                                               *");
