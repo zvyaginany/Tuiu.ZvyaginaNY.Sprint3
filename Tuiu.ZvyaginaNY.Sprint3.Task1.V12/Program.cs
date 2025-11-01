@@ -1,7 +1,7 @@
 ﻿using System;
-using Tulu.ZvyaginaTY.Sprint3.Task1.V12.Lib;
+using Tuiu.ZvyaginaTY.Sprint3.Task1.V12.Lib;
 
-namespace Tulu.ZvyaginaTY.Sprint3.Task1.V12
+namespace Tuiu.ZvyaginaTY.Sprint3.Task1.V12
 {
     class Program
     {
