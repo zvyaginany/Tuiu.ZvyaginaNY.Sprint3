@@ -3,7 +3,7 @@ using Tuyu.ZvyaginaNY.Sprint3.Task2.V10.Lib;
 
 namespace Tuyu.ZvyaginaNY.Sprint3.Task2.V10
 {
-    class Program 
+    class Program  
     {
         static void Main(string[] args)
         {
