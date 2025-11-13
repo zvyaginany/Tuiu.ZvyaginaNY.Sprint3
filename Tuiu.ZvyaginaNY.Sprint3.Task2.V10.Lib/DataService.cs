@@ -7,7 +7,7 @@ namespace Tuyu.ZvyaginaNY.Sprint3.Task2.V10.Lib
     {
         public double GetMultiplySeries(int value, int startValue, int stopValue)
         {
-            double product = 1.0;
+            double product = 1;
             int k = startValue;
 
             do
